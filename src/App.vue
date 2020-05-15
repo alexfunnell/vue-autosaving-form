@@ -115,7 +115,6 @@
 <script>
 import { db } from './firebase';
 import { debounce } from 'debounce';
-// eslint-disable-next-line no-unused-vars
 import Vue from 'vue';
 
 const documentPath = 'contacts/jeff';
